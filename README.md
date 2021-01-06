@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Nicholas Oduor]()
+- [Nicholas Oduor](https://github.com/nicholas-oduor/hello-world)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
